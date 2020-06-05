@@ -108,10 +108,6 @@ int main() {
 			case 17:
 				break;
 			}
-			system("cls");
-			Menu();
-			cout << text << endl;
-			TTextLink::PrintFreeLink();
 
 		} while (c != 17);
 		
